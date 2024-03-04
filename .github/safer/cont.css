@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-image: url('depositphotos_321258156-stock-photo-contact-us-website-page-on.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+}
+
+header,
+footer {
+  color: orange;
+}
+
+header {
+  text-align: center;
+  font-weight: bold;
+}
+
+footer {
+  padding: 20px;
+  text-align: center;
+  font-weight: bold;
+}

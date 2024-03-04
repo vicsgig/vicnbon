@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Travelsafe-Destination reserch</title>
+  <link rel="stylesheet" href="uv.css">
+</head>
+<body>
+  <header>
+    <h1>RESEARCH ON YOUR DESTINATION</h1>
+    <nav>
+      <a href="home.html">Back to Home</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="content">
+      <p>news, articles, and guides about travel destinations worldwide  covering topics such as attractions, events, culture, and cuisine in various cities and regions around the world.<nav>
+      <a href="https://www.cnn.com/travel">CNN Travell</a>
+    </nav>.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2024 TravelSafe. All rights reserved by VICTOR and BONNIE.</p>
+  </footer>
+</body>
+</html>

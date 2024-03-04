@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-image: url('pixlr-image-generator-478bc689-7083-47e3-ad07-61e380f333c7.png');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column; /* Align items vertically */
+  justify-content: center; /* Center items vertically */
+  color: white; /* Set text color to white */
+}
+
+header {
+  text-align: center;
+}
+
+footer {
+  padding: 20px;
+  text-align: center;
+}

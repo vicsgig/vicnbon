@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-image: url('the-best-background-for-a-travel-safe-website (2).jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+ 
+   
+}
+header {
+  
+ 
+  text-align: center;
+}
+footer {
+ 
+  padding: 20px;
+  text-align: center;
+}
